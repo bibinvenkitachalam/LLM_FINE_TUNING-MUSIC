@@ -1,0 +1,17 @@
+# Ignore system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore directories
+/node_modules
+/venv
+/__pycache__/
+
+# Ignore everything in a directory
+/Application Data/
+/Contacts/
+/Favorites/
+/Music/
+/Videos/
